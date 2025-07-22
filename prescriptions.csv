@@ -1,0 +1,801 @@
+prescription_id,appointment_id,medication,dosage,instructions
+1,1,Hydrochlorothiazide,81 mg,Take on an empty stomach
+2,2,Simvastatin,500 mg,Take before bedtime
+3,3,Lisinopril,20 mg,Take every 6 hours as needed
+4,4,Aspirin,20 mg,Take every 8 hours as needed
+5,5,Amoxicillin,10 mg,Take with a full glass of water
+6,6,Hydrochlorothiazide,10 mg,Take every 6 hours as needed
+7,7,Simvastatin,20 mg,Take twice daily
+8,8,Lisinopril,500 mg,Take every 8 hours as needed
+9,9,Amoxicillin,20 mg,Take with food
+10,10,Hydrochlorothiazide,20 mg,Take with a full glass of water
+11,11,Simvastatin,250 mg,Take with food
+12,12,Acetaminophen,10 mg,Take on an empty stomach
+13,13,Metformin,1000 IU,Take before bedtime
+14,14,Acetaminophen,10 mg,Take every 6 hours as needed
+15,15,Acetaminophen,500 mg,Take before bedtime
+16,16,Ibuprofen,500 mg,Take every 6 hours as needed
+17,17,Amoxicillin,5 mg,Take on an empty stomach
+18,18,Aspirin,50 mg,Take for 7 days
+19,19,Ibuprofen,500 mg,Take on an empty stomach
+20,20,Acetaminophen,1000 IU,Take on an empty stomach
+21,21,Lisinopril,500 mg,Take with a full glass of water
+22,22,Vitamin D,500 mg,Take every 6 hours as needed
+23,23,Amoxicillin,200 mg,Take with a full glass of water
+24,24,Hydrochlorothiazide,1000 IU,Take every 6 hours as needed
+25,25,Vitamin D,1000 IU,Take every 8 hours as needed
+26,26,Vitamin D,500 mg,Take with food
+27,27,Vitamin D,500 mg,Take every 12 hours
+28,28,Prednisone,20 mg,Take every 8 hours as needed
+29,29,Amoxicillin,50 mg,Take with food
+30,30,Ibuprofen,1000 IU,Take with food
+31,31,Prednisone,5 mg,Take with a full glass of water
+32,32,Ibuprofen,5 mg,Take once daily
+33,33,Lisinopril,200 mg,Take every 12 hours
+34,34,Hydrochlorothiazide,1000 IU,Take with a full glass of water
+35,35,Hydrochlorothiazide,250 mg,Take with a full glass of water
+36,36,Ibuprofen,500 mg,Take every 6 hours as needed
+37,37,Amoxicillin,250 mg,Take with a full glass of water
+38,38,Lisinopril,250 mg,Take once daily
+39,39,Prednisone,81 mg,Take with food
+40,40,Hydrochlorothiazide,250 mg,Take twice daily
+41,41,Prednisone,500 mg,Take with food
+42,42,Simvastatin,20 mg,Take every 8 hours as needed
+43,43,Hydrochlorothiazide,500 mg,Take every 6 hours as needed
+44,44,Acetaminophen,81 mg,Take twice daily
+45,45,Prednisone,500 mg,Take once daily
+46,46,Lisinopril,250 mg,Take every 6 hours as needed
+47,47,Lisinopril,20 mg,Take twice daily
+48,48,Aspirin,50 mg,Take on an empty stomach
+49,49,Aspirin,500 mg,Take with food
+50,50,Ibuprofen,500 mg,Take every 6 hours as needed
+51,51,Simvastatin,500 mg,Take every 12 hours
+52,52,Simvastatin,81 mg,Take every 8 hours as needed
+53,53,Amoxicillin,5 mg,Take every 12 hours
+54,54,Prednisone,500 mg,Take with food
+55,55,Prednisone,81 mg,Take with food
+56,56,Prednisone,10 mg,Take every 12 hours
+57,57,Acetaminophen,50 mg,Take every 6 hours as needed
+58,58,Ibuprofen,10 mg,Take every 8 hours as needed
+59,59,Ibuprofen,200 mg,Take before bedtime
+60,60,Acetaminophen,50 mg,Take once daily
+61,61,Hydrochlorothiazide,1000 IU,Take on an empty stomach
+62,62,Ibuprofen,81 mg,Take once daily
+63,63,Hydrochlorothiazide,10 mg,Take every 12 hours
+64,64,Aspirin,500 mg,Take before bedtime
+65,65,Vitamin D,5 mg,Take on an empty stomach
+66,66,Lisinopril,1000 IU,Take for 7 days
+67,67,Vitamin D,1000 IU,Take every 12 hours
+68,68,Ibuprofen,50 mg,Take every 6 hours as needed
+69,69,Metformin,50 mg,Take twice daily
+70,70,Hydrochlorothiazide,10 mg,Take every 12 hours
+71,71,Ibuprofen,5 mg,Take before bedtime
+72,72,Acetaminophen,5 mg,Take every 8 hours as needed
+73,73,Ibuprofen,250 mg,Take every 6 hours as needed
+74,74,Prednisone,500 mg,Take twice daily
+75,75,Metformin,50 mg,Take once daily
+76,76,Lisinopril,1000 IU,Take every 6 hours as needed
+77,77,Hydrochlorothiazide,20 mg,Take every 8 hours as needed
+78,78,Hydrochlorothiazide,500 mg,Take before bedtime
+79,79,Metformin,500 mg,Take on an empty stomach
+80,80,Prednisone,5 mg,Take every 12 hours
+81,81,Hydrochlorothiazide,50 mg,Take once daily
+82,82,Amoxicillin,1000 IU,Take every 8 hours as needed
+83,83,Vitamin D,200 mg,Take twice daily
+84,84,Hydrochlorothiazide,500 mg,Take twice daily
+85,85,Vitamin D,81 mg,Take once daily
+86,86,Prednisone,81 mg,Take twice daily
+87,87,Lisinopril,5 mg,Take twice daily
+88,88,Amoxicillin,1000 IU,Take with a full glass of water
+89,89,Amoxicillin,500 mg,Take once daily
+90,90,Prednisone,20 mg,Take for 7 days
+91,91,Ibuprofen,81 mg,Take on an empty stomach
+92,92,Ibuprofen,5 mg,Take on an empty stomach
+93,93,Ibuprofen,81 mg,Take for 7 days
+94,94,Prednisone,81 mg,Take twice daily
+95,95,Aspirin,500 mg,Take once daily
+96,96,Hydrochlorothiazide,20 mg,Take on an empty stomach
+97,97,Amoxicillin,200 mg,Take on an empty stomach
+98,98,Vitamin D,500 mg,Take every 8 hours as needed
+99,99,Vitamin D,10 mg,Take every 6 hours as needed
+100,100,Amoxicillin,500 mg,Take with a full glass of water
+101,101,Vitamin D,10 mg,Take once daily
+102,102,Lisinopril,1000 IU,Take before bedtime
+103,103,Acetaminophen,200 mg,Take every 12 hours
+104,104,Prednisone,10 mg,Take once daily
+105,105,Aspirin,81 mg,Take before bedtime
+106,106,Acetaminophen,1000 IU,Take before bedtime
+107,107,Vitamin D,81 mg,Take every 12 hours
+108,108,Vitamin D,5 mg,Take before bedtime
+109,109,Prednisone,500 mg,Take before bedtime
+110,110,Metformin,1000 IU,Take with a full glass of water
+111,111,Amoxicillin,500 mg,Take every 6 hours as needed
+112,112,Aspirin,5 mg,Take every 8 hours as needed
+113,113,Acetaminophen,20 mg,Take on an empty stomach
+114,114,Hydrochlorothiazide,20 mg,Take every 8 hours as needed
+115,115,Amoxicillin,81 mg,Take for 7 days
+116,116,Aspirin,50 mg,Take twice daily
+117,117,Prednisone,500 mg,Take twice daily
+118,118,Vitamin D,10 mg,Take twice daily
+119,119,Ibuprofen,5 mg,Take twice daily
+120,120,Prednisone,200 mg,Take before bedtime
+121,121,Vitamin D,1000 IU,Take every 6 hours as needed
+122,122,Aspirin,20 mg,Take every 6 hours as needed
+123,123,Lisinopril,5 mg,Take every 8 hours as needed
+124,124,Hydrochlorothiazide,500 mg,Take twice daily
+125,125,Ibuprofen,10 mg,Take every 8 hours as needed
+126,126,Acetaminophen,1000 IU,Take twice daily
+127,127,Prednisone,1000 IU,Take every 6 hours as needed
+128,128,Acetaminophen,81 mg,Take with food
+129,129,Vitamin D,250 mg,Take twice daily
+130,130,Simvastatin,500 mg,Take before bedtime
+131,131,Metformin,50 mg,Take before bedtime
+132,132,Vitamin D,250 mg,Take twice daily
+133,133,Prednisone,20 mg,Take with a full glass of water
+134,134,Acetaminophen,20 mg,Take every 6 hours as needed
+135,135,Lisinopril,20 mg,Take for 7 days
+136,136,Amoxicillin,200 mg,Take every 8 hours as needed
+137,137,Prednisone,500 mg,Take every 12 hours
+138,138,Simvastatin,500 mg,Take twice daily
+139,139,Ibuprofen,5 mg,Take on an empty stomach
+140,140,Aspirin,500 mg,Take every 8 hours as needed
+141,141,Metformin,10 mg,Take with food
+142,142,Amoxicillin,1000 IU,Take for 7 days
+143,143,Metformin,200 mg,Take for 7 days
+144,144,Vitamin D,200 mg,Take twice daily
+145,145,Ibuprofen,81 mg,Take every 12 hours
+146,146,Metformin,500 mg,Take before bedtime
+147,147,Lisinopril,200 mg,Take every 6 hours as needed
+148,148,Vitamin D,81 mg,Take on an empty stomach
+149,149,Acetaminophen,500 mg,Take before bedtime
+150,150,Vitamin D,500 mg,Take before bedtime
+151,151,Simvastatin,5 mg,Take on an empty stomach
+152,152,Amoxicillin,81 mg,Take for 7 days
+153,153,Lisinopril,5 mg,Take with food
+154,154,Simvastatin,10 mg,Take twice daily
+155,155,Ibuprofen,10 mg,Take every 12 hours
+156,156,Ibuprofen,20 mg,Take twice daily
+157,157,Lisinopril,500 mg,Take every 12 hours
+158,158,Acetaminophen,500 mg,Take for 7 days
+159,159,Amoxicillin,5 mg,Take once daily
+160,160,Hydrochlorothiazide,1000 IU,Take with food
+161,161,Aspirin,5 mg,Take with a full glass of water
+162,162,Metformin,500 mg,Take for 7 days
+163,163,Hydrochlorothiazide,81 mg,Take every 8 hours as needed
+164,164,Simvastatin,500 mg,Take twice daily
+165,165,Prednisone,5 mg,Take with a full glass of water
+166,166,Amoxicillin,1000 IU,Take every 8 hours as needed
+167,167,Metformin,1000 IU,Take with a full glass of water
+168,168,Prednisone,500 mg,Take every 12 hours
+169,169,Aspirin,20 mg,Take twice daily
+170,170,Lisinopril,250 mg,Take every 8 hours as needed
+171,171,Ibuprofen,10 mg,Take every 8 hours as needed
+172,172,Ibuprofen,50 mg,Take with food
+173,173,Simvastatin,5 mg,Take with a full glass of water
+174,174,Simvastatin,500 mg,Take every 12 hours
+175,175,Lisinopril,200 mg,Take with a full glass of water
+176,176,Metformin,500 mg,Take for 7 days
+177,177,Lisinopril,500 mg,Take before bedtime
+178,178,Aspirin,20 mg,Take on an empty stomach
+179,179,Ibuprofen,250 mg,Take twice daily
+180,180,Hydrochlorothiazide,10 mg,Take every 12 hours
+181,181,Metformin,500 mg,Take once daily
+182,182,Hydrochlorothiazide,20 mg,Take once daily
+183,183,Ibuprofen,250 mg,Take with a full glass of water
+184,184,Hydrochlorothiazide,500 mg,Take once daily
+185,185,Vitamin D,10 mg,Take once daily
+186,186,Lisinopril,81 mg,Take every 12 hours
+187,187,Ibuprofen,500 mg,Take every 8 hours as needed
+188,188,Acetaminophen,500 mg,Take twice daily
+189,189,Vitamin D,250 mg,Take with a full glass of water
+190,190,Prednisone,500 mg,Take every 6 hours as needed
+191,191,Hydrochlorothiazide,20 mg,Take every 6 hours as needed
+192,192,Metformin,20 mg,Take for 7 days
+193,193,Hydrochlorothiazide,500 mg,Take every 12 hours
+194,194,Acetaminophen,200 mg,Take before bedtime
+195,195,Lisinopril,10 mg,Take before bedtime
+196,196,Aspirin,500 mg,Take on an empty stomach
+197,197,Vitamin D,5 mg,Take before bedtime
+198,198,Amoxicillin,10 mg,Take for 7 days
+199,199,Lisinopril,200 mg,Take before bedtime
+200,200,Simvastatin,1000 IU,Take every 6 hours as needed
+201,201,Aspirin,250 mg,Take before bedtime
+202,202,Amoxicillin,81 mg,Take on an empty stomach
+203,203,Ibuprofen,200 mg,Take every 6 hours as needed
+204,204,Acetaminophen,200 mg,Take every 6 hours as needed
+205,205,Acetaminophen,1000 IU,Take once daily
+206,206,Aspirin,5 mg,Take with a full glass of water
+207,207,Ibuprofen,200 mg,Take before bedtime
+208,208,Metformin,500 mg,Take for 7 days
+209,209,Acetaminophen,5 mg,Take with food
+210,210,Vitamin D,20 mg,Take twice daily
+211,211,Lisinopril,250 mg,Take with food
+212,212,Simvastatin,500 mg,Take every 6 hours as needed
+213,213,Hydrochlorothiazide,81 mg,Take every 6 hours as needed
+214,214,Amoxicillin,500 mg,Take with a full glass of water
+215,215,Acetaminophen,500 mg,Take for 7 days
+216,216,Lisinopril,1000 IU,Take with food
+217,217,Lisinopril,500 mg,Take with food
+218,218,Amoxicillin,500 mg,Take for 7 days
+219,219,Ibuprofen,5 mg,Take once daily
+220,220,Vitamin D,250 mg,Take with food
+221,221,Simvastatin,200 mg,Take with a full glass of water
+222,222,Acetaminophen,500 mg,Take on an empty stomach
+223,223,Acetaminophen,50 mg,Take on an empty stomach
+224,224,Prednisone,1000 IU,Take for 7 days
+225,225,Simvastatin,500 mg,Take with a full glass of water
+226,226,Metformin,10 mg,Take every 8 hours as needed
+227,227,Amoxicillin,1000 IU,Take twice daily
+228,228,Metformin,10 mg,Take with food
+229,229,Vitamin D,200 mg,Take every 6 hours as needed
+230,230,Simvastatin,20 mg,Take every 12 hours
+231,231,Hydrochlorothiazide,1000 IU,Take before bedtime
+232,232,Simvastatin,1000 IU,Take for 7 days
+233,233,Lisinopril,200 mg,Take every 8 hours as needed
+234,234,Vitamin D,81 mg,Take once daily
+235,235,Acetaminophen,500 mg,Take on an empty stomach
+236,236,Prednisone,200 mg,Take every 6 hours as needed
+237,237,Vitamin D,500 mg,Take before bedtime
+238,238,Hydrochlorothiazide,5 mg,Take with a full glass of water
+239,239,Simvastatin,500 mg,Take every 12 hours
+240,240,Hydrochlorothiazide,500 mg,Take every 8 hours as needed
+241,241,Amoxicillin,500 mg,Take once daily
+242,242,Vitamin D,250 mg,Take with food
+243,243,Lisinopril,500 mg,Take before bedtime
+244,244,Lisinopril,250 mg,Take before bedtime
+245,245,Prednisone,50 mg,Take before bedtime
+246,246,Simvastatin,50 mg,Take with a full glass of water
+247,247,Amoxicillin,5 mg,Take before bedtime
+248,248,Acetaminophen,1000 IU,Take every 12 hours
+249,249,Acetaminophen,20 mg,Take before bedtime
+250,250,Acetaminophen,20 mg,Take for 7 days
+251,251,Amoxicillin,5 mg,Take with food
+252,252,Metformin,20 mg,Take once daily
+253,253,Lisinopril,50 mg,Take with food
+254,254,Hydrochlorothiazide,50 mg,Take every 12 hours
+255,255,Prednisone,20 mg,Take every 8 hours as needed
+256,256,Vitamin D,50 mg,Take once daily
+257,257,Simvastatin,20 mg,Take every 6 hours as needed
+258,258,Lisinopril,250 mg,Take every 12 hours
+259,259,Metformin,200 mg,Take once daily
+260,260,Simvastatin,250 mg,Take before bedtime
+261,261,Aspirin,1000 IU,Take every 6 hours as needed
+262,262,Amoxicillin,10 mg,Take with food
+263,263,Vitamin D,81 mg,Take twice daily
+264,264,Prednisone,20 mg,Take with food
+265,265,Metformin,10 mg,Take with food
+266,266,Hydrochlorothiazide,5 mg,Take every 6 hours as needed
+267,267,Ibuprofen,250 mg,Take with a full glass of water
+268,268,Acetaminophen,10 mg,Take before bedtime
+269,269,Simvastatin,20 mg,Take with a full glass of water
+270,270,Hydrochlorothiazide,200 mg,Take before bedtime
+271,271,Lisinopril,250 mg,Take with food
+272,272,Hydrochlorothiazide,500 mg,Take with food
+273,273,Prednisone,1000 IU,Take every 12 hours
+274,274,Hydrochlorothiazide,500 mg,Take with a full glass of water
+275,275,Aspirin,1000 IU,Take with food
+276,276,Aspirin,20 mg,Take once daily
+277,277,Ibuprofen,500 mg,Take on an empty stomach
+278,278,Acetaminophen,50 mg,Take on an empty stomach
+279,279,Ibuprofen,81 mg,Take every 12 hours
+280,280,Acetaminophen,200 mg,Take every 6 hours as needed
+281,281,Acetaminophen,50 mg,Take for 7 days
+282,282,Amoxicillin,81 mg,Take before bedtime
+283,283,Amoxicillin,200 mg,Take twice daily
+284,284,Lisinopril,500 mg,Take every 12 hours
+285,285,Lisinopril,1000 IU,Take once daily
+286,286,Aspirin,5 mg,Take every 12 hours
+287,287,Aspirin,20 mg,Take with food
+288,288,Acetaminophen,5 mg,Take once daily
+289,289,Metformin,250 mg,Take for 7 days
+290,290,Acetaminophen,200 mg,Take every 6 hours as needed
+291,291,Simvastatin,500 mg,Take every 6 hours as needed
+292,292,Hydrochlorothiazide,250 mg,Take with a full glass of water
+293,293,Amoxicillin,10 mg,Take every 6 hours as needed
+294,294,Prednisone,5 mg,Take every 12 hours
+295,295,Metformin,1000 IU,Take on an empty stomach
+296,296,Ibuprofen,1000 IU,Take with food
+297,297,Ibuprofen,5 mg,Take before bedtime
+298,298,Simvastatin,5 mg,Take with food
+299,299,Vitamin D,250 mg,Take with food
+300,300,Amoxicillin,500 mg,Take every 12 hours
+301,301,Prednisone,250 mg,Take every 6 hours as needed
+302,302,Metformin,250 mg,Take before bedtime
+303,303,Prednisone,500 mg,Take on an empty stomach
+304,304,Acetaminophen,250 mg,Take twice daily
+305,305,Vitamin D,50 mg,Take with food
+306,306,Acetaminophen,20 mg,Take once daily
+307,307,Simvastatin,1000 IU,Take once daily
+308,308,Acetaminophen,50 mg,Take before bedtime
+309,309,Vitamin D,20 mg,Take on an empty stomach
+310,310,Acetaminophen,20 mg,Take for 7 days
+311,311,Ibuprofen,500 mg,Take twice daily
+312,312,Prednisone,50 mg,Take for 7 days
+313,313,Lisinopril,1000 IU,Take twice daily
+314,314,Prednisone,250 mg,Take twice daily
+315,315,Lisinopril,50 mg,Take every 8 hours as needed
+316,316,Amoxicillin,20 mg,Take for 7 days
+317,317,Aspirin,1000 IU,Take twice daily
+318,318,Prednisone,500 mg,Take every 12 hours
+319,319,Prednisone,10 mg,Take twice daily
+320,320,Amoxicillin,5 mg,Take before bedtime
+321,321,Amoxicillin,10 mg,Take every 8 hours as needed
+322,322,Lisinopril,10 mg,Take every 12 hours
+323,323,Ibuprofen,500 mg,Take every 8 hours as needed
+324,324,Vitamin D,10 mg,Take on an empty stomach
+325,325,Hydrochlorothiazide,500 mg,Take with a full glass of water
+326,326,Simvastatin,50 mg,Take with food
+327,327,Prednisone,250 mg,Take every 12 hours
+328,328,Acetaminophen,20 mg,Take on an empty stomach
+329,329,Aspirin,10 mg,Take before bedtime
+330,330,Vitamin D,200 mg,Take with food
+331,331,Vitamin D,250 mg,Take every 6 hours as needed
+332,332,Amoxicillin,200 mg,Take twice daily
+333,333,Hydrochlorothiazide,10 mg,Take before bedtime
+334,334,Vitamin D,200 mg,Take with a full glass of water
+335,335,Aspirin,250 mg,Take every 8 hours as needed
+336,336,Simvastatin,1000 IU,Take on an empty stomach
+337,337,Acetaminophen,500 mg,Take every 12 hours
+338,338,Amoxicillin,1000 IU,Take before bedtime
+339,339,Aspirin,250 mg,Take with a full glass of water
+340,340,Prednisone,500 mg,Take once daily
+341,341,Acetaminophen,20 mg,Take twice daily
+342,342,Amoxicillin,200 mg,Take once daily
+343,343,Amoxicillin,500 mg,Take for 7 days
+344,344,Simvastatin,500 mg,Take once daily
+345,345,Metformin,50 mg,Take once daily
+346,346,Prednisone,250 mg,Take before bedtime
+347,347,Lisinopril,20 mg,Take every 8 hours as needed
+348,348,Hydrochlorothiazide,81 mg,Take once daily
+349,349,Acetaminophen,50 mg,Take every 8 hours as needed
+350,350,Aspirin,50 mg,Take every 12 hours
+351,351,Vitamin D,500 mg,Take every 12 hours
+352,352,Hydrochlorothiazide,200 mg,Take once daily
+353,353,Vitamin D,500 mg,Take twice daily
+354,354,Acetaminophen,250 mg,Take with a full glass of water
+355,355,Vitamin D,81 mg,Take every 6 hours as needed
+356,356,Ibuprofen,10 mg,Take every 6 hours as needed
+357,357,Aspirin,1000 IU,Take with food
+358,358,Amoxicillin,5 mg,Take every 6 hours as needed
+359,359,Hydrochlorothiazide,10 mg,Take every 6 hours as needed
+360,360,Hydrochlorothiazide,1000 IU,Take every 6 hours as needed
+361,361,Lisinopril,20 mg,Take with a full glass of water
+362,362,Amoxicillin,1000 IU,Take every 8 hours as needed
+363,363,Acetaminophen,81 mg,Take every 6 hours as needed
+364,364,Lisinopril,500 mg,Take every 12 hours
+365,365,Ibuprofen,1000 IU,Take with a full glass of water
+366,366,Aspirin,5 mg,Take every 12 hours
+367,367,Hydrochlorothiazide,81 mg,Take every 12 hours
+368,368,Prednisone,20 mg,Take once daily
+369,369,Simvastatin,5 mg,Take with a full glass of water
+370,370,Prednisone,200 mg,Take once daily
+371,371,Lisinopril,500 mg,Take twice daily
+372,372,Vitamin D,500 mg,Take with a full glass of water
+373,373,Metformin,20 mg,Take with food
+374,374,Vitamin D,5 mg,Take for 7 days
+375,375,Lisinopril,200 mg,Take for 7 days
+376,376,Ibuprofen,250 mg,Take every 8 hours as needed
+377,377,Aspirin,500 mg,Take every 8 hours as needed
+378,378,Amoxicillin,5 mg,Take every 12 hours
+379,379,Hydrochlorothiazide,1000 IU,Take twice daily
+380,380,Hydrochlorothiazide,20 mg,Take once daily
+381,381,Ibuprofen,81 mg,Take every 12 hours
+382,382,Hydrochlorothiazide,20 mg,Take every 6 hours as needed
+383,383,Acetaminophen,200 mg,Take for 7 days
+384,384,Hydrochlorothiazide,500 mg,Take for 7 days
+385,385,Ibuprofen,500 mg,Take on an empty stomach
+386,386,Aspirin,250 mg,Take every 12 hours
+387,387,Metformin,1000 IU,Take twice daily
+388,388,Ibuprofen,81 mg,Take with food
+389,389,Lisinopril,5 mg,Take before bedtime
+390,390,Aspirin,500 mg,Take with a full glass of water
+391,391,Aspirin,500 mg,Take for 7 days
+392,392,Hydrochlorothiazide,10 mg,Take every 12 hours
+393,393,Amoxicillin,500 mg,Take with a full glass of water
+394,394,Aspirin,200 mg,Take with food
+395,395,Prednisone,81 mg,Take with food
+396,396,Simvastatin,200 mg,Take every 12 hours
+397,397,Vitamin D,250 mg,Take on an empty stomach
+398,398,Prednisone,250 mg,Take once daily
+399,399,Hydrochlorothiazide,500 mg,Take twice daily
+400,400,Prednisone,200 mg,Take every 8 hours as needed
+401,401,Hydrochlorothiazide,10 mg,Take every 6 hours as needed
+402,402,Lisinopril,5 mg,Take twice daily
+403,403,Aspirin,250 mg,Take twice daily
+404,404,Aspirin,500 mg,Take every 8 hours as needed
+405,405,Lisinopril,5 mg,Take every 6 hours as needed
+406,406,Aspirin,50 mg,Take with a full glass of water
+407,407,Ibuprofen,81 mg,Take every 12 hours
+408,408,Acetaminophen,20 mg,Take every 12 hours
+409,409,Metformin,1000 IU,Take with a full glass of water
+410,410,Simvastatin,5 mg,Take for 7 days
+411,411,Metformin,50 mg,Take once daily
+412,412,Amoxicillin,10 mg,Take with a full glass of water
+413,413,Vitamin D,500 mg,Take with food
+414,414,Aspirin,5 mg,Take twice daily
+415,415,Aspirin,50 mg,Take once daily
+416,416,Ibuprofen,1000 IU,Take for 7 days
+417,417,Simvastatin,50 mg,Take on an empty stomach
+418,418,Metformin,50 mg,Take with a full glass of water
+419,419,Metformin,500 mg,Take every 12 hours
+420,420,Metformin,200 mg,Take with food
+421,421,Prednisone,10 mg,Take before bedtime
+422,422,Aspirin,20 mg,Take every 12 hours
+423,423,Amoxicillin,200 mg,Take twice daily
+424,424,Ibuprofen,500 mg,Take for 7 days
+425,425,Simvastatin,20 mg,Take with a full glass of water
+426,426,Simvastatin,10 mg,Take with a full glass of water
+427,427,Amoxicillin,5 mg,Take before bedtime
+428,428,Hydrochlorothiazide,500 mg,Take on an empty stomach
+429,429,Prednisone,1000 IU,Take with a full glass of water
+430,430,Prednisone,500 mg,Take every 6 hours as needed
+431,431,Simvastatin,500 mg,Take before bedtime
+432,432,Prednisone,50 mg,Take for 7 days
+433,433,Amoxicillin,200 mg,Take every 6 hours as needed
+434,434,Acetaminophen,500 mg,Take every 8 hours as needed
+435,435,Aspirin,500 mg,Take with a full glass of water
+436,436,Aspirin,50 mg,Take once daily
+437,437,Ibuprofen,5 mg,Take every 12 hours
+438,438,Aspirin,81 mg,Take every 12 hours
+439,439,Aspirin,200 mg,Take once daily
+440,440,Prednisone,250 mg,Take every 6 hours as needed
+441,441,Metformin,50 mg,Take for 7 days
+442,442,Metformin,50 mg,Take for 7 days
+443,443,Aspirin,50 mg,Take with a full glass of water
+444,444,Simvastatin,5 mg,Take on an empty stomach
+445,445,Amoxicillin,10 mg,Take once daily
+446,446,Aspirin,20 mg,Take every 12 hours
+447,447,Vitamin D,250 mg,Take on an empty stomach
+448,448,Hydrochlorothiazide,500 mg,Take for 7 days
+449,449,Amoxicillin,500 mg,Take on an empty stomach
+450,450,Prednisone,81 mg,Take every 6 hours as needed
+451,451,Metformin,81 mg,Take twice daily
+452,452,Hydrochlorothiazide,500 mg,Take twice daily
+453,453,Ibuprofen,10 mg,Take for 7 days
+454,454,Acetaminophen,10 mg,Take with a full glass of water
+455,455,Aspirin,20 mg,Take every 8 hours as needed
+456,456,Aspirin,250 mg,Take with a full glass of water
+457,457,Amoxicillin,81 mg,Take with a full glass of water
+458,458,Acetaminophen,10 mg,Take twice daily
+459,459,Aspirin,20 mg,Take every 6 hours as needed
+460,460,Metformin,200 mg,Take with food
+461,461,Metformin,500 mg,Take once daily
+462,462,Metformin,250 mg,Take every 8 hours as needed
+463,463,Aspirin,20 mg,Take for 7 days
+464,464,Simvastatin,81 mg,Take before bedtime
+465,465,Acetaminophen,50 mg,Take for 7 days
+466,466,Acetaminophen,20 mg,Take with food
+467,467,Prednisone,81 mg,Take on an empty stomach
+468,468,Acetaminophen,20 mg,Take before bedtime
+469,469,Aspirin,20 mg,Take every 6 hours as needed
+470,470,Aspirin,500 mg,Take once daily
+471,471,Prednisone,500 mg,Take once daily
+472,472,Acetaminophen,5 mg,Take with food
+473,473,Aspirin,81 mg,Take with a full glass of water
+474,474,Metformin,81 mg,Take with food
+475,475,Aspirin,20 mg,Take every 8 hours as needed
+476,476,Metformin,250 mg,Take twice daily
+477,477,Amoxicillin,5 mg,Take with a full glass of water
+478,478,Acetaminophen,200 mg,Take on an empty stomach
+479,479,Ibuprofen,20 mg,Take before bedtime
+480,480,Ibuprofen,81 mg,Take twice daily
+481,481,Lisinopril,10 mg,Take on an empty stomach
+482,482,Ibuprofen,500 mg,Take every 12 hours
+483,483,Aspirin,1000 IU,Take with a full glass of water
+484,484,Hydrochlorothiazide,20 mg,Take every 8 hours as needed
+485,485,Lisinopril,10 mg,Take with a full glass of water
+486,486,Simvastatin,500 mg,Take with food
+487,487,Acetaminophen,10 mg,Take with a full glass of water
+488,488,Aspirin,250 mg,Take with a full glass of water
+489,489,Lisinopril,20 mg,Take with a full glass of water
+490,490,Amoxicillin,81 mg,Take every 8 hours as needed
+491,491,Metformin,50 mg,Take every 6 hours as needed
+492,492,Metformin,500 mg,Take with food
+493,493,Amoxicillin,5 mg,Take every 12 hours
+494,494,Ibuprofen,500 mg,Take for 7 days
+495,495,Simvastatin,1000 IU,Take with food
+496,496,Vitamin D,500 mg,Take every 12 hours
+497,497,Hydrochlorothiazide,250 mg,Take with food
+498,498,Amoxicillin,500 mg,Take with food
+499,499,Amoxicillin,500 mg,Take every 12 hours
+500,500,Acetaminophen,200 mg,Take with a full glass of water
+501,501,Aspirin,50 mg,Take every 8 hours as needed
+502,502,Hydrochlorothiazide,10 mg,Take for 7 days
+503,503,Amoxicillin,250 mg,Take every 8 hours as needed
+504,504,Amoxicillin,20 mg,Take twice daily
+505,505,Vitamin D,200 mg,Take on an empty stomach
+506,506,Aspirin,1000 IU,Take every 12 hours
+507,507,Acetaminophen,5 mg,Take on an empty stomach
+508,508,Aspirin,250 mg,Take with food
+509,509,Ibuprofen,200 mg,Take before bedtime
+510,510,Lisinopril,10 mg,Take once daily
+511,511,Simvastatin,5 mg,Take with a full glass of water
+512,512,Amoxicillin,10 mg,Take on an empty stomach
+513,513,Amoxicillin,250 mg,Take every 12 hours
+514,514,Prednisone,250 mg,Take twice daily
+515,515,Amoxicillin,200 mg,Take before bedtime
+516,516,Lisinopril,500 mg,Take with a full glass of water
+517,517,Simvastatin,5 mg,Take for 7 days
+518,518,Hydrochlorothiazide,500 mg,Take every 6 hours as needed
+519,519,Amoxicillin,81 mg,Take with a full glass of water
+520,520,Aspirin,500 mg,Take twice daily
+521,521,Amoxicillin,81 mg,Take every 6 hours as needed
+522,522,Metformin,81 mg,Take on an empty stomach
+523,523,Metformin,500 mg,Take every 12 hours
+524,524,Acetaminophen,1000 IU,Take every 6 hours as needed
+525,525,Amoxicillin,10 mg,Take with a full glass of water
+526,526,Aspirin,50 mg,Take every 12 hours
+527,527,Lisinopril,10 mg,Take every 8 hours as needed
+528,528,Vitamin D,500 mg,Take on an empty stomach
+529,529,Lisinopril,20 mg,Take twice daily
+530,530,Hydrochlorothiazide,5 mg,Take for 7 days
+531,531,Aspirin,500 mg,Take before bedtime
+532,532,Simvastatin,1000 IU,Take on an empty stomach
+533,533,Prednisone,5 mg,Take before bedtime
+534,534,Prednisone,1000 IU,Take before bedtime
+535,535,Acetaminophen,50 mg,Take with a full glass of water
+536,536,Metformin,250 mg,Take with food
+537,537,Simvastatin,1000 IU,Take every 6 hours as needed
+538,538,Amoxicillin,20 mg,Take with a full glass of water
+539,539,Aspirin,250 mg,Take for 7 days
+540,540,Lisinopril,50 mg,Take with food
+541,541,Hydrochlorothiazide,1000 IU,Take every 12 hours
+542,542,Hydrochlorothiazide,10 mg,Take with food
+543,543,Lisinopril,500 mg,Take with a full glass of water
+544,544,Ibuprofen,5 mg,Take with a full glass of water
+545,545,Ibuprofen,500 mg,Take once daily
+546,546,Vitamin D,500 mg,Take with food
+547,547,Aspirin,50 mg,Take every 6 hours as needed
+548,548,Aspirin,250 mg,Take with food
+549,549,Metformin,10 mg,Take once daily
+550,550,Prednisone,500 mg,Take every 8 hours as needed
+551,551,Prednisone,500 mg,Take every 6 hours as needed
+552,552,Metformin,500 mg,Take once daily
+553,553,Metformin,500 mg,Take once daily
+554,554,Acetaminophen,50 mg,Take every 12 hours
+555,555,Vitamin D,50 mg,Take before bedtime
+556,556,Metformin,50 mg,Take with a full glass of water
+557,557,Acetaminophen,200 mg,Take every 8 hours as needed
+558,558,Metformin,200 mg,Take for 7 days
+559,559,Ibuprofen,500 mg,Take on an empty stomach
+560,560,Simvastatin,250 mg,Take with a full glass of water
+561,561,Simvastatin,50 mg,Take for 7 days
+562,562,Prednisone,250 mg,Take for 7 days
+563,563,Acetaminophen,81 mg,Take with a full glass of water
+564,564,Acetaminophen,5 mg,Take on an empty stomach
+565,565,Metformin,200 mg,Take every 6 hours as needed
+566,566,Acetaminophen,20 mg,Take once daily
+567,567,Metformin,5 mg,Take on an empty stomach
+568,568,Lisinopril,200 mg,Take before bedtime
+569,569,Ibuprofen,10 mg,Take once daily
+570,570,Hydrochlorothiazide,81 mg,Take once daily
+571,571,Vitamin D,250 mg,Take every 6 hours as needed
+572,572,Lisinopril,200 mg,Take once daily
+573,573,Vitamin D,1000 IU,Take once daily
+574,574,Amoxicillin,500 mg,Take before bedtime
+575,575,Amoxicillin,5 mg,Take twice daily
+576,576,Acetaminophen,50 mg,Take on an empty stomach
+577,577,Metformin,500 mg,Take with food
+578,578,Hydrochlorothiazide,10 mg,Take every 6 hours as needed
+579,579,Metformin,250 mg,Take with food
+580,580,Aspirin,20 mg,Take every 12 hours
+581,581,Vitamin D,200 mg,Take for 7 days
+582,582,Ibuprofen,250 mg,Take every 6 hours as needed
+583,583,Vitamin D,500 mg,Take with a full glass of water
+584,584,Amoxicillin,200 mg,Take every 8 hours as needed
+585,585,Acetaminophen,5 mg,Take before bedtime
+586,586,Metformin,1000 IU,Take once daily
+587,587,Ibuprofen,5 mg,Take every 12 hours
+588,588,Metformin,20 mg,Take for 7 days
+589,589,Vitamin D,250 mg,Take every 6 hours as needed
+590,590,Simvastatin,500 mg,Take on an empty stomach
+591,591,Prednisone,10 mg,Take every 6 hours as needed
+592,592,Ibuprofen,10 mg,Take for 7 days
+593,593,Aspirin,10 mg,Take on an empty stomach
+594,594,Simvastatin,5 mg,Take every 6 hours as needed
+595,595,Lisinopril,500 mg,Take every 8 hours as needed
+596,596,Simvastatin,20 mg,Take every 12 hours
+597,597,Aspirin,500 mg,Take every 12 hours
+598,598,Lisinopril,1000 IU,Take every 6 hours as needed
+599,599,Aspirin,250 mg,Take every 8 hours as needed
+600,600,Vitamin D,250 mg,Take every 8 hours as needed
+601,601,Prednisone,200 mg,Take twice daily
+602,602,Hydrochlorothiazide,5 mg,Take twice daily
+603,603,Amoxicillin,500 mg,Take for 7 days
+604,604,Vitamin D,500 mg,Take for 7 days
+605,605,Prednisone,500 mg,Take twice daily
+606,606,Metformin,500 mg,Take before bedtime
+607,607,Ibuprofen,250 mg,Take with a full glass of water
+608,608,Aspirin,200 mg,Take once daily
+609,609,Prednisone,200 mg,Take every 12 hours
+610,610,Acetaminophen,500 mg,Take with a full glass of water
+611,611,Vitamin D,20 mg,Take with a full glass of water
+612,612,Hydrochlorothiazide,10 mg,Take twice daily
+613,613,Simvastatin,5 mg,Take before bedtime
+614,614,Acetaminophen,50 mg,Take for 7 days
+615,615,Acetaminophen,250 mg,Take with food
+616,616,Acetaminophen,200 mg,Take with food
+617,617,Simvastatin,1000 IU,Take once daily
+618,618,Lisinopril,50 mg,Take every 12 hours
+619,619,Acetaminophen,500 mg,Take before bedtime
+620,620,Ibuprofen,20 mg,Take before bedtime
+621,621,Vitamin D,50 mg,Take every 12 hours
+622,622,Hydrochlorothiazide,500 mg,Take every 12 hours
+623,623,Amoxicillin,200 mg,Take before bedtime
+624,624,Metformin,81 mg,Take before bedtime
+625,625,Hydrochlorothiazide,50 mg,Take once daily
+626,626,Lisinopril,81 mg,Take twice daily
+627,627,Ibuprofen,10 mg,Take every 12 hours
+628,628,Ibuprofen,200 mg,Take every 8 hours as needed
+629,629,Acetaminophen,5 mg,Take every 8 hours as needed
+630,630,Aspirin,200 mg,Take once daily
+631,631,Aspirin,1000 IU,Take every 12 hours
+632,632,Hydrochlorothiazide,500 mg,Take once daily
+633,633,Simvastatin,250 mg,Take every 12 hours
+634,634,Hydrochlorothiazide,250 mg,Take with food
+635,635,Hydrochlorothiazide,250 mg,Take before bedtime
+636,636,Lisinopril,20 mg,Take twice daily
+637,637,Prednisone,50 mg,Take before bedtime
+638,638,Acetaminophen,20 mg,Take twice daily
+639,639,Vitamin D,500 mg,Take every 8 hours as needed
+640,640,Ibuprofen,250 mg,Take with food
+641,641,Ibuprofen,5 mg,Take on an empty stomach
+642,642,Acetaminophen,200 mg,Take with food
+643,643,Metformin,1000 IU,Take with food
+644,644,Ibuprofen,500 mg,Take with a full glass of water
+645,645,Simvastatin,250 mg,Take for 7 days
+646,646,Amoxicillin,1000 IU,Take with a full glass of water
+647,647,Ibuprofen,50 mg,Take every 6 hours as needed
+648,648,Simvastatin,10 mg,Take before bedtime
+649,649,Aspirin,500 mg,Take with food
+650,650,Prednisone,20 mg,Take once daily
+651,651,Prednisone,250 mg,Take every 12 hours
+652,652,Acetaminophen,50 mg,Take on an empty stomach
+653,653,Hydrochlorothiazide,500 mg,Take for 7 days
+654,654,Metformin,81 mg,Take before bedtime
+655,655,Lisinopril,50 mg,Take every 8 hours as needed
+656,656,Prednisone,5 mg,Take twice daily
+657,657,Metformin,50 mg,Take for 7 days
+658,658,Vitamin D,10 mg,Take once daily
+659,659,Hydrochlorothiazide,81 mg,Take every 8 hours as needed
+660,660,Aspirin,81 mg,Take once daily
+661,661,Simvastatin,250 mg,Take every 8 hours as needed
+662,662,Amoxicillin,250 mg,Take every 8 hours as needed
+663,663,Acetaminophen,10 mg,Take for 7 days
+664,664,Metformin,50 mg,Take once daily
+665,665,Metformin,500 mg,Take twice daily
+666,666,Prednisone,10 mg,Take with a full glass of water
+667,667,Simvastatin,500 mg,Take every 8 hours as needed
+668,668,Prednisone,5 mg,Take every 12 hours
+669,669,Hydrochlorothiazide,81 mg,Take every 12 hours
+670,670,Prednisone,500 mg,Take every 6 hours as needed
+671,671,Prednisone,10 mg,Take twice daily
+672,672,Ibuprofen,200 mg,Take on an empty stomach
+673,673,Simvastatin,1000 IU,Take before bedtime
+674,674,Metformin,500 mg,Take with a full glass of water
+675,675,Vitamin D,10 mg,Take on an empty stomach
+676,676,Lisinopril,500 mg,Take twice daily
+677,677,Prednisone,81 mg,Take every 12 hours
+678,678,Simvastatin,10 mg,Take with a full glass of water
+679,679,Ibuprofen,10 mg,Take with food
+680,680,Acetaminophen,81 mg,Take every 12 hours
+681,681,Metformin,5 mg,Take twice daily
+682,682,Prednisone,250 mg,Take every 12 hours
+683,683,Simvastatin,250 mg,Take on an empty stomach
+684,684,Amoxicillin,1000 IU,Take before bedtime
+685,685,Amoxicillin,10 mg,Take every 12 hours
+686,686,Amoxicillin,5 mg,Take twice daily
+687,687,Hydrochlorothiazide,200 mg,Take every 6 hours as needed
+688,688,Lisinopril,250 mg,Take once daily
+689,689,Vitamin D,200 mg,Take every 12 hours
+690,690,Metformin,10 mg,Take on an empty stomach
+691,691,Ibuprofen,200 mg,Take twice daily
+692,692,Metformin,81 mg,Take once daily
+693,693,Vitamin D,500 mg,Take once daily
+694,694,Hydrochlorothiazide,250 mg,Take every 8 hours as needed
+695,695,Simvastatin,250 mg,Take for 7 days
+696,696,Acetaminophen,10 mg,Take on an empty stomach
+697,697,Lisinopril,10 mg,Take with food
+698,698,Simvastatin,250 mg,Take every 6 hours as needed
+699,699,Acetaminophen,500 mg,Take with food
+700,700,Amoxicillin,10 mg,Take twice daily
+701,701,Acetaminophen,250 mg,Take twice daily
+702,702,Simvastatin,50 mg,Take every 12 hours
+703,703,Acetaminophen,250 mg,Take with food
+704,704,Vitamin D,10 mg,Take every 12 hours
+705,705,Lisinopril,200 mg,Take for 7 days
+706,706,Simvastatin,200 mg,Take every 12 hours
+707,707,Acetaminophen,200 mg,Take on an empty stomach
+708,708,Amoxicillin,20 mg,Take before bedtime
+709,709,Lisinopril,5 mg,Take every 6 hours as needed
+710,710,Vitamin D,500 mg,Take every 8 hours as needed
+711,711,Acetaminophen,50 mg,Take with a full glass of water
+712,712,Acetaminophen,500 mg,Take every 6 hours as needed
+713,713,Metformin,500 mg,Take every 12 hours
+714,714,Simvastatin,200 mg,Take on an empty stomach
+715,715,Amoxicillin,50 mg,Take before bedtime
+716,716,Simvastatin,250 mg,Take twice daily
+717,717,Acetaminophen,10 mg,Take with a full glass of water
+718,718,Acetaminophen,200 mg,Take for 7 days
+719,719,Vitamin D,500 mg,Take on an empty stomach
+720,720,Amoxicillin,1000 IU,Take every 12 hours
+721,721,Metformin,10 mg,Take on an empty stomach
+722,722,Prednisone,20 mg,Take with food
+723,723,Amoxicillin,200 mg,Take every 12 hours
+724,724,Acetaminophen,500 mg,Take with a full glass of water
+725,725,Lisinopril,500 mg,Take on an empty stomach
+726,726,Metformin,500 mg,Take once daily
+727,727,Vitamin D,500 mg,Take on an empty stomach
+728,728,Simvastatin,250 mg,Take with a full glass of water
+729,729,Vitamin D,200 mg,Take on an empty stomach
+730,730,Amoxicillin,81 mg,Take with food
+731,731,Prednisone,500 mg,Take every 12 hours
+732,732,Hydrochlorothiazide,81 mg,Take once daily
+733,733,Ibuprofen,1000 IU,Take twice daily
+734,734,Vitamin D,81 mg,Take once daily
+735,735,Aspirin,250 mg,Take twice daily
+736,736,Lisinopril,81 mg,Take on an empty stomach
+737,737,Lisinopril,500 mg,Take twice daily
+738,738,Prednisone,10 mg,Take for 7 days
+739,739,Aspirin,1000 IU,Take with a full glass of water
+740,740,Prednisone,1000 IU,Take every 12 hours
+741,741,Ibuprofen,200 mg,Take once daily
+742,742,Simvastatin,50 mg,Take for 7 days
+743,743,Lisinopril,50 mg,Take before bedtime
+744,744,Acetaminophen,1000 IU,Take with a full glass of water
+745,745,Hydrochlorothiazide,50 mg,Take on an empty stomach
+746,746,Acetaminophen,5 mg,Take for 7 days
+747,747,Metformin,5 mg,Take every 6 hours as needed
+748,748,Acetaminophen,50 mg,Take once daily
+749,749,Lisinopril,50 mg,Take once daily
+750,750,Prednisone,50 mg,Take with food
+751,751,Amoxicillin,1000 IU,Take before bedtime
+752,752,Lisinopril,20 mg,Take once daily
+753,753,Hydrochlorothiazide,500 mg,Take every 8 hours as needed
+754,754,Aspirin,200 mg,Take for 7 days
+755,755,Amoxicillin,1000 IU,Take every 12 hours
+756,756,Vitamin D,5 mg,Take with food
+757,757,Lisinopril,50 mg,Take once daily
+758,758,Metformin,200 mg,Take every 12 hours
+759,759,Metformin,20 mg,Take before bedtime
+760,760,Metformin,5 mg,Take with a full glass of water
+761,761,Metformin,5 mg,Take on an empty stomach
+762,762,Hydrochlorothiazide,10 mg,Take on an empty stomach
+763,763,Metformin,500 mg,Take every 12 hours
+764,764,Ibuprofen,10 mg,Take before bedtime
+765,765,Amoxicillin,81 mg,Take once daily
+766,766,Acetaminophen,50 mg,Take every 6 hours as needed
+767,767,Vitamin D,81 mg,Take with a full glass of water
+768,768,Acetaminophen,50 mg,Take for 7 days
+769,769,Lisinopril,50 mg,Take twice daily
+770,770,Ibuprofen,250 mg,Take on an empty stomach
+771,771,Prednisone,50 mg,Take with food
+772,772,Ibuprofen,81 mg,Take twice daily
+773,773,Metformin,500 mg,Take with food
+774,774,Aspirin,500 mg,Take twice daily
+775,775,Metformin,250 mg,Take twice daily
+776,776,Vitamin D,20 mg,Take twice daily
+777,777,Ibuprofen,20 mg,Take with a full glass of water
+778,778,Simvastatin,10 mg,Take with food
+779,779,Aspirin,500 mg,Take every 8 hours as needed
+780,780,Simvastatin,81 mg,Take with food
+781,781,Lisinopril,1000 IU,Take with food
+782,782,Aspirin,1000 IU,Take on an empty stomach
+783,783,Amoxicillin,250 mg,Take for 7 days
+784,784,Ibuprofen,500 mg,Take on an empty stomach
+785,785,Ibuprofen,50 mg,Take every 8 hours as needed
+786,786,Aspirin,500 mg,Take twice daily
+787,787,Ibuprofen,20 mg,Take every 6 hours as needed
+788,788,Prednisone,10 mg,Take every 6 hours as needed
+789,789,Prednisone,10 mg,Take every 12 hours
+790,790,Acetaminophen,81 mg,Take with food
+791,791,Vitamin D,81 mg,Take for 7 days
+792,792,Lisinopril,10 mg,Take once daily
+793,793,Amoxicillin,81 mg,Take once daily
+794,794,Amoxicillin,1000 IU,Take every 12 hours
+795,795,Amoxicillin,81 mg,Take twice daily
+796,796,Ibuprofen,1000 IU,Take with a full glass of water
+797,797,Acetaminophen,5 mg,Take every 8 hours as needed
+798,798,Lisinopril,200 mg,Take once daily
+799,799,Metformin,500 mg,Take every 8 hours as needed
+800,800,Hydrochlorothiazide,10 mg,Take for 7 days

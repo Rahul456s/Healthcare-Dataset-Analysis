@@ -1,0 +1,801 @@
+appointment_id,patient_id,doctor_id,appointment_date,reason
+1,203,24,2024-08-27,Flu symptoms
+2,220,5,2024-08-14,Blood test
+3,352,1,2024-08-23,Headache
+4,402,11,2024-08-20,Blood test
+5,121,9,2024-09-05,Knee pain
+6,166,23,2024-09-09,Flu symptoms
+7,402,4,2024-08-17,Headache
+8,215,37,2024-08-25,Follow-up visit
+9,244,1,2024-09-05,Flu symptoms
+10,36,49,2024-08-15,Back pain
+11,244,38,2024-08-22,Chest pain
+12,175,35,2024-08-12,Knee pain
+13,98,4,2024-08-16,Blood test
+14,224,24,2024-09-01,Routine check-up
+15,277,11,2024-08-12,Follow-up visit
+16,169,42,2024-08-26,Blood test
+17,180,30,2024-08-17,Annual physical
+18,423,4,2024-09-03,Routine check-up
+19,188,42,2024-08-15,Back pain
+20,235,45,2024-08-14,Back pain
+21,253,50,2024-08-23,Headache
+22,286,27,2024-08-28,Routine check-up
+23,152,1,2024-08-16,Annual physical
+24,297,12,2024-08-14,Knee pain
+25,100,26,2024-08-31,Headache
+26,180,10,2024-09-06,Back pain
+27,16,39,2024-09-09,Flu symptoms
+28,45,33,2024-08-13,Flu symptoms
+29,84,48,2024-09-05,Chest pain
+30,102,20,2024-08-27,Blood test
+31,338,11,2024-08-15,Routine check-up
+32,451,14,2024-08-29,Routine check-up
+33,362,26,2024-08-14,Back pain
+34,446,33,2024-08-31,Routine check-up
+35,342,30,2024-08-18,Routine check-up
+36,193,39,2024-08-16,Dental check-up
+37,56,6,2024-09-06,Routine check-up
+38,471,29,2024-09-07,Chest pain
+39,326,1,2024-09-02,Flu symptoms
+40,51,11,2024-08-11,Knee pain
+41,88,13,2024-08-20,Chest pain
+42,474,30,2024-08-11,Flu symptoms
+43,461,7,2024-08-25,Knee pain
+44,331,27,2024-08-15,Chest pain
+45,101,6,2024-09-05,Headache
+46,46,3,2024-08-11,Knee pain
+47,218,23,2024-09-02,Back pain
+48,486,17,2024-09-08,Headache
+49,64,32,2024-08-22,Blood test
+50,276,21,2024-08-11,Dental check-up
+51,244,23,2024-08-29,Knee pain
+52,223,32,2024-08-26,Dental check-up
+53,381,2,2024-08-15,Dental check-up
+54,314,20,2024-08-31,Flu symptoms
+55,423,16,2024-09-06,Headache
+56,24,31,2024-08-17,Follow-up visit
+57,264,37,2024-08-14,Annual physical
+58,277,4,2024-08-12,Knee pain
+59,339,50,2024-09-05,Knee pain
+60,167,26,2024-09-06,Follow-up visit
+61,440,10,2024-09-05,Headache
+62,350,3,2024-08-23,Back pain
+63,229,28,2024-09-03,Follow-up visit
+64,149,23,2024-08-18,Headache
+65,24,33,2024-08-31,Follow-up visit
+66,310,24,2024-08-13,Back pain
+67,265,24,2024-08-17,Knee pain
+68,91,29,2024-09-05,Chest pain
+69,246,38,2024-08-29,Annual physical
+70,373,50,2024-08-21,Dental check-up
+71,57,37,2024-08-22,Routine check-up
+72,249,46,2024-08-20,Annual physical
+73,500,34,2024-08-17,Blood test
+74,26,48,2024-09-04,Headache
+75,401,7,2024-09-09,Flu symptoms
+76,174,32,2024-08-12,Back pain
+77,30,13,2024-09-07,Dental check-up
+78,63,10,2024-08-30,Follow-up visit
+79,72,36,2024-08-18,Routine check-up
+80,221,36,2024-09-04,Headache
+81,500,20,2024-08-26,Knee pain
+82,368,16,2024-08-11,Knee pain
+83,124,12,2024-09-06,Flu symptoms
+84,157,47,2024-09-02,Back pain
+85,367,11,2024-08-14,Knee pain
+86,211,25,2024-09-03,Headache
+87,148,28,2024-08-27,Dental check-up
+88,443,26,2024-08-12,Routine check-up
+89,165,42,2024-09-02,Chest pain
+90,191,23,2024-08-16,Follow-up visit
+91,499,44,2024-09-09,Headache
+92,393,1,2024-09-06,Knee pain
+93,233,48,2024-08-29,Blood test
+94,22,43,2024-08-10,Follow-up visit
+95,419,28,2024-08-15,Routine check-up
+96,234,31,2024-08-24,Chest pain
+97,322,7,2024-08-13,Blood test
+98,271,3,2024-08-17,Flu symptoms
+99,300,17,2024-09-05,Flu symptoms
+100,50,22,2024-08-24,Knee pain
+101,81,6,2024-08-23,Follow-up visit
+102,188,4,2024-08-22,Routine check-up
+103,130,23,2024-09-09,Back pain
+104,168,13,2024-09-03,Follow-up visit
+105,14,46,2024-09-03,Annual physical
+106,77,39,2024-08-24,Headache
+107,109,36,2024-08-17,Blood test
+108,163,21,2024-08-29,Headache
+109,311,8,2024-08-15,Headache
+110,490,40,2024-09-03,Follow-up visit
+111,262,39,2024-08-31,Blood test
+112,223,1,2024-08-21,Chest pain
+113,483,15,2024-08-17,Knee pain
+114,370,22,2024-08-10,Chest pain
+115,98,42,2024-08-19,Headache
+116,86,47,2024-08-15,Knee pain
+117,18,20,2024-08-12,Dental check-up
+118,157,6,2024-08-21,Annual physical
+119,151,47,2024-08-17,Dental check-up
+120,482,18,2024-09-09,Back pain
+121,246,1,2024-08-15,Dental check-up
+122,470,47,2024-09-03,Follow-up visit
+123,115,13,2024-08-25,Annual physical
+124,228,4,2024-08-25,Knee pain
+125,297,36,2024-09-06,Dental check-up
+126,313,43,2024-08-13,Annual physical
+127,158,32,2024-08-15,Routine check-up
+128,349,22,2024-08-16,Annual physical
+129,418,43,2024-08-10,Chest pain
+130,166,11,2024-08-28,Flu symptoms
+131,342,6,2024-08-21,Chest pain
+132,473,43,2024-08-11,Headache
+133,69,35,2024-08-14,Knee pain
+134,195,22,2024-08-16,Routine check-up
+135,422,34,2024-08-21,Dental check-up
+136,89,37,2024-09-01,Dental check-up
+137,308,2,2024-08-16,Follow-up visit
+138,218,36,2024-09-04,Blood test
+139,11,17,2024-08-24,Follow-up visit
+140,50,47,2024-08-20,Back pain
+141,177,19,2024-08-14,Routine check-up
+142,216,45,2024-08-30,Routine check-up
+143,432,21,2024-09-03,Annual physical
+144,133,24,2024-08-11,Blood test
+145,332,42,2024-08-29,Chest pain
+146,392,25,2024-08-23,Dental check-up
+147,160,44,2024-09-02,Dental check-up
+148,117,48,2024-08-26,Chest pain
+149,312,16,2024-09-02,Headache
+150,479,43,2024-08-17,Knee pain
+151,380,44,2024-08-19,Dental check-up
+152,149,7,2024-08-25,Follow-up visit
+153,30,42,2024-09-03,Blood test
+154,61,43,2024-08-20,Back pain
+155,312,40,2024-08-12,Routine check-up
+156,310,25,2024-08-21,Follow-up visit
+157,62,21,2024-08-18,Annual physical
+158,79,2,2024-09-03,Annual physical
+159,68,38,2024-09-04,Follow-up visit
+160,341,36,2024-09-09,Headache
+161,454,34,2024-08-21,Routine check-up
+162,489,37,2024-08-16,Chest pain
+163,108,46,2024-09-05,Dental check-up
+164,452,14,2024-08-28,Flu symptoms
+165,336,8,2024-08-23,Chest pain
+166,67,44,2024-08-12,Annual physical
+167,340,1,2024-09-01,Blood test
+168,46,4,2024-08-15,Headache
+169,320,32,2024-08-12,Routine check-up
+170,385,20,2024-09-07,Flu symptoms
+171,391,28,2024-09-03,Headache
+172,20,43,2024-08-17,Knee pain
+173,327,2,2024-08-11,Follow-up visit
+174,8,29,2024-08-20,Routine check-up
+175,47,28,2024-09-05,Back pain
+176,472,25,2024-09-06,Back pain
+177,13,47,2024-08-28,Flu symptoms
+178,315,41,2024-08-22,Blood test
+179,455,28,2024-08-27,Knee pain
+180,273,16,2024-08-31,Back pain
+181,312,24,2024-08-11,Blood test
+182,232,10,2024-09-03,Back pain
+183,331,5,2024-08-18,Annual physical
+184,268,43,2024-08-20,Headache
+185,29,40,2024-09-08,Flu symptoms
+186,6,29,2024-08-29,Routine check-up
+187,41,9,2024-09-06,Headache
+188,227,4,2024-08-31,Annual physical
+189,267,23,2024-09-06,Knee pain
+190,312,36,2024-09-01,Chest pain
+191,395,45,2024-08-29,Follow-up visit
+192,124,4,2024-08-27,Chest pain
+193,347,47,2024-09-01,Dental check-up
+194,204,33,2024-08-20,Chest pain
+195,458,3,2024-09-01,Annual physical
+196,171,12,2024-08-27,Annual physical
+197,368,15,2024-09-06,Flu symptoms
+198,207,2,2024-09-02,Dental check-up
+199,385,19,2024-08-15,Knee pain
+200,291,8,2024-09-02,Routine check-up
+201,381,38,2024-08-31,Back pain
+202,407,43,2024-09-05,Follow-up visit
+203,77,17,2024-08-10,Dental check-up
+204,449,14,2024-08-13,Flu symptoms
+205,116,45,2024-08-27,Blood test
+206,126,40,2024-09-01,Chest pain
+207,59,11,2024-08-29,Back pain
+208,365,26,2024-09-01,Back pain
+209,438,21,2024-08-29,Annual physical
+210,66,17,2024-08-11,Chest pain
+211,350,43,2024-08-11,Routine check-up
+212,476,43,2024-08-24,Flu symptoms
+213,291,50,2024-08-13,Back pain
+214,361,32,2024-09-06,Annual physical
+215,86,19,2024-09-02,Back pain
+216,240,50,2024-08-25,Back pain
+217,325,21,2024-09-03,Headache
+218,203,5,2024-09-07,Follow-up visit
+219,419,15,2024-08-20,Headache
+220,372,25,2024-09-09,Blood test
+221,357,6,2024-08-25,Headache
+222,386,23,2024-08-15,Knee pain
+223,471,10,2024-08-27,Chest pain
+224,376,26,2024-08-27,Chest pain
+225,411,31,2024-09-01,Follow-up visit
+226,464,38,2024-08-24,Blood test
+227,464,42,2024-08-31,Back pain
+228,294,30,2024-08-20,Blood test
+229,441,37,2024-09-07,Back pain
+230,243,21,2024-08-20,Headache
+231,50,47,2024-08-21,Annual physical
+232,360,7,2024-08-30,Follow-up visit
+233,171,33,2024-08-29,Routine check-up
+234,272,35,2024-08-24,Chest pain
+235,159,20,2024-08-11,Dental check-up
+236,245,48,2024-08-30,Headache
+237,407,17,2024-08-17,Blood test
+238,201,31,2024-09-02,Chest pain
+239,371,13,2024-08-12,Headache
+240,439,29,2024-09-04,Dental check-up
+241,249,43,2024-09-05,Back pain
+242,107,20,2024-08-28,Flu symptoms
+243,421,21,2024-08-27,Routine check-up
+244,283,26,2024-08-23,Follow-up visit
+245,259,45,2024-08-23,Blood test
+246,296,18,2024-09-05,Follow-up visit
+247,434,46,2024-09-03,Blood test
+248,150,23,2024-09-01,Blood test
+249,236,4,2024-09-07,Dental check-up
+250,7,37,2024-08-18,Chest pain
+251,244,7,2024-08-14,Chest pain
+252,485,26,2024-09-03,Dental check-up
+253,336,28,2024-09-01,Headache
+254,8,37,2024-08-25,Chest pain
+255,312,29,2024-09-04,Follow-up visit
+256,248,34,2024-08-23,Knee pain
+257,390,33,2024-08-23,Headache
+258,380,40,2024-08-10,Back pain
+259,341,35,2024-09-06,Flu symptoms
+260,362,22,2024-08-24,Chest pain
+261,432,19,2024-09-07,Dental check-up
+262,99,20,2024-09-04,Flu symptoms
+263,487,16,2024-08-22,Blood test
+264,118,49,2024-08-11,Blood test
+265,45,46,2024-08-11,Annual physical
+266,183,15,2024-08-16,Blood test
+267,393,42,2024-08-18,Routine check-up
+268,186,24,2024-08-21,Chest pain
+269,23,46,2024-09-03,Follow-up visit
+270,50,43,2024-09-03,Chest pain
+271,218,40,2024-08-25,Headache
+272,325,44,2024-09-03,Flu symptoms
+273,187,1,2024-08-13,Chest pain
+274,497,37,2024-09-06,Knee pain
+275,9,4,2024-09-04,Back pain
+276,431,9,2024-08-22,Headache
+277,197,24,2024-08-12,Blood test
+278,442,48,2024-08-24,Routine check-up
+279,256,5,2024-08-24,Follow-up visit
+280,77,39,2024-08-20,Follow-up visit
+281,496,47,2024-09-09,Knee pain
+282,60,48,2024-08-22,Headache
+283,377,18,2024-08-22,Flu symptoms
+284,97,48,2024-08-24,Headache
+285,6,15,2024-08-15,Back pain
+286,286,11,2024-08-16,Chest pain
+287,337,15,2024-08-25,Flu symptoms
+288,150,45,2024-08-20,Follow-up visit
+289,421,15,2024-08-15,Follow-up visit
+290,248,46,2024-09-08,Chest pain
+291,264,6,2024-08-26,Back pain
+292,424,43,2024-08-11,Routine check-up
+293,132,28,2024-09-07,Dental check-up
+294,307,31,2024-09-04,Chest pain
+295,128,4,2024-08-13,Knee pain
+296,179,29,2024-08-16,Knee pain
+297,333,32,2024-08-26,Blood test
+298,330,8,2024-08-20,Chest pain
+299,196,38,2024-09-02,Chest pain
+300,370,3,2024-09-04,Follow-up visit
+301,496,18,2024-08-23,Follow-up visit
+302,193,7,2024-08-25,Dental check-up
+303,1,27,2024-09-08,Dental check-up
+304,494,2,2024-09-03,Follow-up visit
+305,422,12,2024-09-09,Back pain
+306,423,11,2024-08-13,Follow-up visit
+307,491,1,2024-09-09,Knee pain
+308,14,18,2024-08-22,Dental check-up
+309,285,1,2024-09-09,Follow-up visit
+310,311,40,2024-08-10,Chest pain
+311,260,40,2024-08-27,Back pain
+312,115,14,2024-09-06,Back pain
+313,45,47,2024-09-08,Flu symptoms
+314,289,38,2024-09-08,Headache
+315,480,15,2024-09-05,Blood test
+316,274,19,2024-08-20,Blood test
+317,453,20,2024-09-01,Knee pain
+318,320,35,2024-08-12,Annual physical
+319,439,47,2024-09-04,Knee pain
+320,390,45,2024-08-20,Back pain
+321,186,17,2024-08-24,Flu symptoms
+322,315,7,2024-08-30,Routine check-up
+323,211,26,2024-09-02,Routine check-up
+324,210,1,2024-08-30,Knee pain
+325,370,17,2024-08-14,Dental check-up
+326,89,5,2024-08-20,Annual physical
+327,419,22,2024-09-03,Chest pain
+328,111,37,2024-09-03,Flu symptoms
+329,350,19,2024-08-21,Annual physical
+330,464,43,2024-08-23,Headache
+331,262,39,2024-08-24,Blood test
+332,79,46,2024-09-04,Dental check-up
+333,95,49,2024-08-27,Chest pain
+334,429,22,2024-09-08,Annual physical
+335,26,12,2024-09-05,Flu symptoms
+336,89,10,2024-08-13,Routine check-up
+337,169,49,2024-09-02,Chest pain
+338,9,35,2024-08-24,Back pain
+339,220,19,2024-09-03,Knee pain
+340,317,1,2024-08-27,Follow-up visit
+341,386,39,2024-08-21,Chest pain
+342,138,3,2024-08-24,Chest pain
+343,240,35,2024-08-19,Annual physical
+344,236,21,2024-09-08,Follow-up visit
+345,132,45,2024-08-22,Chest pain
+346,223,15,2024-09-08,Follow-up visit
+347,83,49,2024-09-08,Knee pain
+348,4,12,2024-08-17,Back pain
+349,449,8,2024-08-26,Chest pain
+350,111,35,2024-08-30,Knee pain
+351,28,37,2024-09-02,Routine check-up
+352,365,41,2024-08-23,Blood test
+353,352,7,2024-08-31,Knee pain
+354,130,16,2024-08-31,Back pain
+355,288,34,2024-08-31,Knee pain
+356,384,46,2024-08-29,Back pain
+357,420,17,2024-08-24,Knee pain
+358,209,44,2024-08-30,Flu symptoms
+359,231,50,2024-08-17,Knee pain
+360,180,39,2024-08-30,Knee pain
+361,499,26,2024-08-25,Flu symptoms
+362,197,23,2024-08-21,Dental check-up
+363,131,41,2024-08-28,Headache
+364,287,12,2024-08-28,Routine check-up
+365,155,11,2024-08-16,Routine check-up
+366,431,15,2024-08-26,Chest pain
+367,206,5,2024-08-14,Headache
+368,438,11,2024-09-01,Annual physical
+369,52,35,2024-08-29,Annual physical
+370,64,26,2024-08-25,Headache
+371,272,35,2024-08-16,Annual physical
+372,62,17,2024-09-09,Knee pain
+373,231,20,2024-09-04,Dental check-up
+374,134,8,2024-08-13,Knee pain
+375,404,19,2024-08-16,Dental check-up
+376,281,34,2024-09-04,Follow-up visit
+377,27,12,2024-08-24,Headache
+378,102,34,2024-09-07,Chest pain
+379,409,34,2024-08-16,Follow-up visit
+380,458,19,2024-08-28,Follow-up visit
+381,475,43,2024-08-20,Blood test
+382,38,1,2024-08-28,Blood test
+383,115,38,2024-08-21,Back pain
+384,487,40,2024-08-31,Routine check-up
+385,14,14,2024-08-15,Flu symptoms
+386,83,10,2024-08-16,Dental check-up
+387,373,50,2024-09-08,Blood test
+388,229,42,2024-08-11,Routine check-up
+389,153,2,2024-09-06,Headache
+390,132,35,2024-08-21,Routine check-up
+391,470,42,2024-08-13,Chest pain
+392,98,37,2024-08-16,Headache
+393,190,4,2024-08-23,Knee pain
+394,324,5,2024-09-02,Knee pain
+395,369,41,2024-08-10,Follow-up visit
+396,226,26,2024-09-08,Dental check-up
+397,158,18,2024-08-16,Annual physical
+398,229,11,2024-08-25,Headache
+399,366,23,2024-08-24,Flu symptoms
+400,142,33,2024-08-21,Dental check-up
+401,424,19,2024-09-05,Annual physical
+402,191,36,2024-09-03,Knee pain
+403,60,38,2024-08-20,Knee pain
+404,278,20,2024-09-07,Dental check-up
+405,46,10,2024-08-23,Annual physical
+406,268,7,2024-08-31,Annual physical
+407,396,42,2024-09-01,Knee pain
+408,150,42,2024-08-27,Routine check-up
+409,251,6,2024-09-09,Knee pain
+410,78,22,2024-08-19,Headache
+411,351,3,2024-08-25,Flu symptoms
+412,292,2,2024-08-13,Knee pain
+413,369,38,2024-08-19,Follow-up visit
+414,13,20,2024-08-16,Dental check-up
+415,344,38,2024-08-11,Blood test
+416,401,43,2024-09-03,Flu symptoms
+417,176,7,2024-09-02,Dental check-up
+418,444,32,2024-08-20,Headache
+419,192,9,2024-08-26,Flu symptoms
+420,392,29,2024-09-04,Blood test
+421,440,36,2024-08-15,Headache
+422,149,36,2024-08-25,Follow-up visit
+423,443,29,2024-08-14,Headache
+424,13,17,2024-08-21,Follow-up visit
+425,306,19,2024-09-01,Flu symptoms
+426,235,45,2024-08-23,Follow-up visit
+427,157,27,2024-08-26,Routine check-up
+428,85,31,2024-08-17,Dental check-up
+429,126,34,2024-08-27,Headache
+430,488,1,2024-08-20,Knee pain
+431,357,28,2024-09-09,Knee pain
+432,396,20,2024-08-16,Dental check-up
+433,168,41,2024-08-14,Blood test
+434,443,8,2024-08-11,Blood test
+435,334,5,2024-08-15,Annual physical
+436,438,8,2024-08-27,Knee pain
+437,49,21,2024-09-06,Back pain
+438,206,17,2024-08-28,Back pain
+439,246,28,2024-08-20,Flu symptoms
+440,13,21,2024-08-23,Routine check-up
+441,425,32,2024-08-17,Knee pain
+442,335,36,2024-08-22,Chest pain
+443,48,23,2024-08-22,Routine check-up
+444,369,6,2024-08-12,Dental check-up
+445,59,14,2024-08-15,Headache
+446,132,34,2024-08-16,Dental check-up
+447,335,29,2024-09-09,Headache
+448,400,14,2024-08-15,Knee pain
+449,220,15,2024-08-19,Flu symptoms
+450,499,9,2024-08-30,Back pain
+451,125,2,2024-08-25,Flu symptoms
+452,11,39,2024-09-08,Annual physical
+453,156,50,2024-08-15,Blood test
+454,55,22,2024-09-04,Chest pain
+455,99,50,2024-08-14,Headache
+456,305,31,2024-08-30,Dental check-up
+457,336,22,2024-09-03,Follow-up visit
+458,302,24,2024-08-30,Annual physical
+459,274,10,2024-08-17,Routine check-up
+460,474,33,2024-09-08,Routine check-up
+461,423,15,2024-08-23,Flu symptoms
+462,409,47,2024-09-09,Flu symptoms
+463,75,13,2024-09-04,Flu symptoms
+464,248,47,2024-08-12,Dental check-up
+465,134,20,2024-09-04,Knee pain
+466,101,11,2024-08-25,Annual physical
+467,255,4,2024-09-09,Dental check-up
+468,257,1,2024-08-24,Annual physical
+469,458,10,2024-08-19,Flu symptoms
+470,161,38,2024-09-03,Back pain
+471,40,4,2024-08-13,Chest pain
+472,232,23,2024-08-13,Back pain
+473,397,17,2024-08-18,Blood test
+474,41,50,2024-08-17,Annual physical
+475,76,14,2024-08-12,Back pain
+476,432,7,2024-08-22,Blood test
+477,482,48,2024-08-15,Annual physical
+478,375,14,2024-08-12,Back pain
+479,50,22,2024-08-21,Annual physical
+480,198,43,2024-08-21,Knee pain
+481,121,29,2024-08-16,Follow-up visit
+482,150,35,2024-08-20,Blood test
+483,282,29,2024-08-11,Chest pain
+484,378,24,2024-09-07,Dental check-up
+485,20,5,2024-09-01,Annual physical
+486,99,30,2024-08-20,Annual physical
+487,3,22,2024-08-14,Blood test
+488,64,10,2024-08-30,Follow-up visit
+489,90,30,2024-08-23,Dental check-up
+490,81,42,2024-08-25,Back pain
+491,132,26,2024-08-18,Chest pain
+492,451,23,2024-08-22,Flu symptoms
+493,152,32,2024-08-17,Chest pain
+494,349,50,2024-08-18,Knee pain
+495,389,8,2024-08-21,Routine check-up
+496,79,32,2024-08-23,Chest pain
+497,55,47,2024-08-25,Dental check-up
+498,495,5,2024-08-26,Blood test
+499,63,8,2024-08-21,Knee pain
+500,267,27,2024-09-01,Follow-up visit
+501,246,33,2024-09-05,Knee pain
+502,223,40,2024-09-07,Dental check-up
+503,245,4,2024-08-16,Back pain
+504,408,44,2024-08-21,Chest pain
+505,85,12,2024-09-05,Back pain
+506,267,13,2024-08-31,Flu symptoms
+507,157,21,2024-09-04,Headache
+508,3,4,2024-09-07,Knee pain
+509,328,16,2024-08-18,Flu symptoms
+510,427,38,2024-08-29,Dental check-up
+511,164,29,2024-08-20,Chest pain
+512,471,13,2024-09-02,Knee pain
+513,64,15,2024-09-04,Flu symptoms
+514,403,32,2024-08-10,Blood test
+515,66,31,2024-08-11,Annual physical
+516,227,10,2024-09-01,Routine check-up
+517,361,6,2024-08-28,Dental check-up
+518,13,17,2024-09-02,Dental check-up
+519,37,15,2024-08-20,Flu symptoms
+520,4,19,2024-08-20,Follow-up visit
+521,151,34,2024-08-10,Flu symptoms
+522,389,23,2024-08-16,Headache
+523,95,3,2024-09-06,Headache
+524,145,37,2024-08-14,Headache
+525,74,35,2024-09-05,Follow-up visit
+526,284,12,2024-09-01,Flu symptoms
+527,432,44,2024-08-19,Chest pain
+528,45,8,2024-08-29,Dental check-up
+529,312,41,2024-08-18,Knee pain
+530,492,6,2024-08-18,Knee pain
+531,223,13,2024-08-28,Chest pain
+532,494,5,2024-08-27,Routine check-up
+533,390,30,2024-08-31,Routine check-up
+534,195,35,2024-08-11,Chest pain
+535,301,21,2024-08-31,Back pain
+536,313,11,2024-08-22,Knee pain
+537,256,29,2024-08-21,Flu symptoms
+538,246,23,2024-08-21,Routine check-up
+539,478,15,2024-09-01,Annual physical
+540,176,32,2024-08-16,Back pain
+541,289,26,2024-09-04,Annual physical
+542,270,40,2024-09-07,Headache
+543,228,7,2024-09-09,Follow-up visit
+544,143,26,2024-08-16,Headache
+545,295,47,2024-08-20,Routine check-up
+546,207,38,2024-09-03,Chest pain
+547,25,46,2024-08-26,Chest pain
+548,333,4,2024-09-04,Blood test
+549,468,24,2024-08-20,Chest pain
+550,15,15,2024-08-21,Blood test
+551,378,18,2024-08-16,Annual physical
+552,404,35,2024-08-24,Annual physical
+553,197,13,2024-08-30,Knee pain
+554,168,33,2024-08-24,Blood test
+555,495,17,2024-08-24,Headache
+556,469,38,2024-09-08,Dental check-up
+557,370,40,2024-09-07,Headache
+558,11,16,2024-08-26,Knee pain
+559,338,42,2024-08-15,Knee pain
+560,154,36,2024-08-22,Headache
+561,422,4,2024-09-03,Flu symptoms
+562,372,9,2024-09-09,Knee pain
+563,462,7,2024-08-12,Routine check-up
+564,457,2,2024-08-26,Chest pain
+565,309,10,2024-09-04,Annual physical
+566,450,5,2024-08-28,Annual physical
+567,294,2,2024-08-23,Chest pain
+568,265,34,2024-08-24,Follow-up visit
+569,129,48,2024-09-04,Blood test
+570,495,39,2024-08-25,Headache
+571,361,36,2024-08-12,Flu symptoms
+572,388,11,2024-09-05,Flu symptoms
+573,73,2,2024-08-11,Knee pain
+574,364,7,2024-08-14,Blood test
+575,425,32,2024-08-22,Headache
+576,357,26,2024-08-18,Flu symptoms
+577,48,38,2024-08-13,Knee pain
+578,401,4,2024-08-17,Back pain
+579,335,15,2024-08-25,Chest pain
+580,45,42,2024-08-15,Routine check-up
+581,447,31,2024-08-30,Chest pain
+582,162,49,2024-08-12,Blood test
+583,89,30,2024-08-16,Chest pain
+584,255,8,2024-09-03,Dental check-up
+585,1,40,2024-08-30,Dental check-up
+586,139,14,2024-08-22,Headache
+587,361,41,2024-08-22,Dental check-up
+588,389,21,2024-08-27,Follow-up visit
+589,399,14,2024-09-03,Back pain
+590,474,32,2024-08-20,Annual physical
+591,153,49,2024-08-10,Annual physical
+592,439,49,2024-08-26,Flu symptoms
+593,257,29,2024-09-06,Flu symptoms
+594,372,38,2024-09-09,Annual physical
+595,329,16,2024-08-27,Headache
+596,36,10,2024-08-14,Blood test
+597,196,28,2024-08-26,Flu symptoms
+598,270,49,2024-08-18,Routine check-up
+599,301,49,2024-08-22,Back pain
+600,291,3,2024-08-29,Follow-up visit
+601,340,35,2024-08-14,Headache
+602,129,6,2024-09-03,Dental check-up
+603,389,37,2024-08-23,Flu symptoms
+604,207,45,2024-08-18,Back pain
+605,141,18,2024-08-29,Dental check-up
+606,454,9,2024-08-23,Headache
+607,110,47,2024-09-06,Annual physical
+608,338,10,2024-08-31,Flu symptoms
+609,299,15,2024-08-11,Flu symptoms
+610,444,15,2024-08-22,Annual physical
+611,331,3,2024-09-09,Back pain
+612,80,19,2024-08-12,Follow-up visit
+613,428,13,2024-08-29,Routine check-up
+614,434,38,2024-08-16,Headache
+615,231,9,2024-09-04,Headache
+616,243,6,2024-08-10,Annual physical
+617,174,26,2024-08-24,Blood test
+618,57,3,2024-08-14,Headache
+619,6,21,2024-08-14,Dental check-up
+620,279,22,2024-09-08,Knee pain
+621,312,43,2024-08-23,Follow-up visit
+622,465,8,2024-08-16,Annual physical
+623,217,41,2024-08-13,Routine check-up
+624,387,48,2024-09-03,Blood test
+625,325,5,2024-08-20,Dental check-up
+626,154,18,2024-09-05,Annual physical
+627,63,49,2024-08-12,Annual physical
+628,156,3,2024-09-02,Knee pain
+629,76,36,2024-08-27,Dental check-up
+630,32,47,2024-08-16,Headache
+631,270,49,2024-08-15,Dental check-up
+632,140,38,2024-08-28,Routine check-up
+633,225,45,2024-09-04,Chest pain
+634,70,19,2024-09-06,Back pain
+635,284,27,2024-08-14,Dental check-up
+636,163,23,2024-09-05,Dental check-up
+637,395,11,2024-09-02,Annual physical
+638,100,36,2024-08-16,Chest pain
+639,215,7,2024-08-23,Follow-up visit
+640,176,12,2024-08-28,Dental check-up
+641,305,15,2024-09-03,Knee pain
+642,314,3,2024-08-23,Dental check-up
+643,442,10,2024-08-22,Blood test
+644,101,15,2024-09-09,Chest pain
+645,28,4,2024-09-09,Annual physical
+646,297,4,2024-09-07,Dental check-up
+647,7,29,2024-08-30,Follow-up visit
+648,158,24,2024-08-15,Follow-up visit
+649,10,31,2024-08-11,Dental check-up
+650,344,19,2024-09-01,Routine check-up
+651,241,21,2024-08-14,Back pain
+652,148,29,2024-09-04,Knee pain
+653,262,28,2024-08-25,Annual physical
+654,485,9,2024-08-29,Back pain
+655,226,46,2024-08-13,Routine check-up
+656,455,9,2024-09-01,Back pain
+657,123,41,2024-08-11,Blood test
+658,233,18,2024-08-24,Follow-up visit
+659,298,25,2024-08-24,Blood test
+660,327,20,2024-08-12,Headache
+661,299,48,2024-09-03,Dental check-up
+662,118,21,2024-09-05,Chest pain
+663,209,36,2024-08-23,Follow-up visit
+664,254,40,2024-08-10,Flu symptoms
+665,260,9,2024-09-07,Blood test
+666,330,39,2024-08-14,Annual physical
+667,112,3,2024-08-13,Flu symptoms
+668,158,1,2024-09-04,Flu symptoms
+669,94,10,2024-08-20,Blood test
+670,454,29,2024-08-15,Follow-up visit
+671,137,10,2024-08-16,Headache
+672,340,6,2024-09-01,Headache
+673,435,4,2024-09-06,Back pain
+674,83,29,2024-08-17,Flu symptoms
+675,39,17,2024-08-27,Blood test
+676,392,16,2024-09-02,Flu symptoms
+677,369,32,2024-08-23,Annual physical
+678,185,7,2024-09-03,Blood test
+679,189,32,2024-08-22,Routine check-up
+680,364,1,2024-09-04,Back pain
+681,346,36,2024-09-06,Chest pain
+682,14,36,2024-08-10,Chest pain
+683,225,18,2024-08-21,Back pain
+684,23,47,2024-08-17,Routine check-up
+685,261,5,2024-08-17,Headache
+686,410,46,2024-08-10,Annual physical
+687,294,10,2024-08-27,Knee pain
+688,125,19,2024-08-20,Follow-up visit
+689,326,17,2024-08-13,Chest pain
+690,36,46,2024-08-27,Flu symptoms
+691,139,9,2024-08-16,Dental check-up
+692,164,13,2024-09-06,Dental check-up
+693,378,5,2024-08-13,Back pain
+694,99,17,2024-09-03,Follow-up visit
+695,21,27,2024-08-15,Knee pain
+696,335,10,2024-08-27,Back pain
+697,432,36,2024-09-02,Routine check-up
+698,358,1,2024-08-21,Back pain
+699,312,7,2024-08-12,Follow-up visit
+700,478,21,2024-09-01,Headache
+701,217,17,2024-08-24,Routine check-up
+702,354,29,2024-08-12,Chest pain
+703,375,50,2024-09-04,Routine check-up
+704,324,20,2024-08-19,Back pain
+705,92,22,2024-08-22,Back pain
+706,214,16,2024-08-25,Knee pain
+707,213,6,2024-08-14,Dental check-up
+708,61,15,2024-08-11,Dental check-up
+709,274,1,2024-08-15,Dental check-up
+710,232,20,2024-08-18,Blood test
+711,354,11,2024-09-08,Back pain
+712,282,7,2024-08-25,Back pain
+713,147,8,2024-08-14,Routine check-up
+714,149,4,2024-09-04,Chest pain
+715,366,39,2024-09-05,Chest pain
+716,428,36,2024-08-18,Back pain
+717,20,50,2024-09-09,Annual physical
+718,36,38,2024-08-11,Flu symptoms
+719,470,44,2024-08-13,Back pain
+720,200,7,2024-08-20,Dental check-up
+721,353,49,2024-08-25,Back pain
+722,292,41,2024-08-26,Dental check-up
+723,393,14,2024-08-12,Back pain
+724,66,20,2024-08-25,Follow-up visit
+725,409,36,2024-08-20,Back pain
+726,48,17,2024-08-20,Blood test
+727,257,25,2024-08-27,Routine check-up
+728,225,47,2024-09-05,Chest pain
+729,49,47,2024-08-26,Dental check-up
+730,129,11,2024-08-19,Dental check-up
+731,391,24,2024-08-20,Chest pain
+732,399,17,2024-08-11,Follow-up visit
+733,402,24,2024-08-10,Dental check-up
+734,232,33,2024-09-08,Back pain
+735,399,41,2024-09-09,Annual physical
+736,487,15,2024-08-23,Dental check-up
+737,251,36,2024-09-04,Flu symptoms
+738,167,29,2024-08-30,Routine check-up
+739,386,4,2024-08-24,Dental check-up
+740,356,7,2024-09-03,Knee pain
+741,198,31,2024-08-15,Headache
+742,186,1,2024-08-30,Annual physical
+743,466,42,2024-08-23,Chest pain
+744,1,50,2024-08-15,Dental check-up
+745,306,19,2024-08-10,Flu symptoms
+746,54,12,2024-08-14,Follow-up visit
+747,331,21,2024-08-23,Back pain
+748,297,25,2024-09-09,Knee pain
+749,22,38,2024-09-09,Chest pain
+750,280,3,2024-08-22,Follow-up visit
+751,497,40,2024-08-11,Flu symptoms
+752,479,30,2024-09-06,Back pain
+753,282,7,2024-08-22,Back pain
+754,121,24,2024-08-14,Chest pain
+755,387,25,2024-09-09,Follow-up visit
+756,354,7,2024-08-19,Follow-up visit
+757,455,27,2024-08-13,Routine check-up
+758,445,30,2024-09-05,Dental check-up
+759,112,13,2024-08-31,Routine check-up
+760,188,38,2024-08-11,Headache
+761,399,9,2024-08-19,Follow-up visit
+762,429,24,2024-09-01,Flu symptoms
+763,40,32,2024-08-14,Flu symptoms
+764,82,43,2024-08-25,Routine check-up
+765,306,1,2024-08-19,Back pain
+766,429,43,2024-09-01,Flu symptoms
+767,12,13,2024-08-16,Routine check-up
+768,41,14,2024-08-12,Knee pain
+769,26,31,2024-09-03,Flu symptoms
+770,223,41,2024-08-27,Blood test
+771,243,25,2024-08-18,Dental check-up
+772,17,40,2024-08-11,Chest pain
+773,244,46,2024-09-08,Back pain
+774,89,41,2024-08-27,Annual physical
+775,304,24,2024-09-01,Flu symptoms
+776,339,44,2024-08-12,Knee pain
+777,108,46,2024-08-25,Back pain
+778,396,27,2024-08-15,Follow-up visit
+779,367,5,2024-08-24,Chest pain
+780,16,23,2024-08-27,Blood test
+781,175,9,2024-09-02,Routine check-up
+782,58,36,2024-08-21,Knee pain
+783,37,40,2024-08-24,Annual physical
+784,390,5,2024-09-05,Chest pain
+785,293,8,2024-08-17,Annual physical
+786,291,27,2024-08-13,Blood test
+787,24,29,2024-08-20,Annual physical
+788,481,17,2024-09-06,Dental check-up
+789,2,7,2024-08-20,Follow-up visit
+790,329,39,2024-08-12,Follow-up visit
+791,376,44,2024-08-22,Follow-up visit
+792,155,13,2024-09-03,Dental check-up
+793,465,12,2024-08-29,Chest pain
+794,73,50,2024-08-16,Dental check-up
+795,332,9,2024-08-28,Headache
+796,364,20,2024-08-31,Back pain
+797,435,6,2024-08-12,Routine check-up
+798,466,43,2024-09-06,Chest pain
+799,386,31,2024-08-14,Follow-up visit
+800,452,42,2024-08-20,Dental check-up
