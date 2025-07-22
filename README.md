@@ -164,19 +164,8 @@ SELECT * FROM prescriptions;
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙋 Author
 
 **Your Name**
 GitHub: [yourusername](https://github.com(https://github.com/Rahul456s))
 Email: [youremail@example.com](mailto:Rahul456shende@gmail.com)
-
----
-
-Would you like me to bundle this as a downloadable `README.md` or help you upload it to GitHub?
